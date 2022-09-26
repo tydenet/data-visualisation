@@ -1,3 +1,4 @@
+ipyleaflet
 ipycytoscape
 pandas
 pykew
