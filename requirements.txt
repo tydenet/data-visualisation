@@ -1,0 +1,4 @@
+ipycytoscape
+pandas
+pykew
+pygbif
