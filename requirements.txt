@@ -1,5 +1,7 @@
+bokeh
 ipyleaflet
 ipycytoscape
+networkx
 pandas
 pykew
 pygbif
